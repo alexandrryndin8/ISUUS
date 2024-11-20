@@ -14,7 +14,7 @@ pages = [" ",'Home','Project1', 'Project2', 'Project3']
 
 styles = {
     "nav": {
-        "background-color": "royalblue",
+        "background-color": "purple",
         "display": "flex",
         "justify-content": "center"
     },
